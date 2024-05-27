@@ -5,5 +5,4 @@ add some flair to the builder front end TMWSTW
 tamper monkey script to add a images to pages from TMWSTW webpage 
 
 #INSTALL AND USAGE 
-install is simple download overlay file / cut and paste into a new tampermonkey script window and save once done you can see the new images via a f5 refrsh on the https://build.tmwstw.io/ web page 
-
+install is simple download overlay file / cut and paste into a new tampermonkey script window and save once done you can see the new images via a f5 refrsh on the https://build.tmwstw.io/ web page.
